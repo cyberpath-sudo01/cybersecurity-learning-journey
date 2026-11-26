@@ -55,4 +55,8 @@ DNS Security
 - DNS Spoofing
 - DNS Cache Poisoning
 - DNSSEC
-
+Project 01 – DNS Fundamentals & Security
+Status: In Progress
+Main topic: DNS Resolution
+Learned: DNS Components, DNS Records, DNS Security
+Practical tools: nslookup
