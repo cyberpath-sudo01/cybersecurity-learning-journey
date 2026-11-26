@@ -1,3 +1,52 @@
+
+# TCP and UDP
+
+## What is this project about?
+
+In this project, I learned about TCP and UDP. They are two important protocols used for sending data over networks.
+
+## TCP
+
+TCP stands for Transmission Control Protocol.
+
+It is used when reliable data transmission is important.
+
+Some TCP features:
+- It establishes a connection before sending data.
+- It checks if data is received.
+- It keeps data in the correct order.
+- It can resend lost data.
+
+TCP uses a Three-Way Handshake:
+1. SYN
+2. SYN-ACK
+3. ACK
+
+## UDP
+
+UDP stands for User Datagram Protocol.
+
+Unlike TCP, UDP does not establish a connection before sending data.
+
+Some UDP features:
+- It has lower overhead.
+- It does not guarantee data delivery.
+- It does not guarantee packet order.
+- It is useful when low latency is important.
+
+## TCP vs UDP
+
+TCP focuses on reliable communication, while UDP focuses on simpler and faster data transmission.
+
+Examples:
+- TCP: SSH, FTP and traditional HTTPS.
+- UDP: Online games, VoIP and many DNS queries.
+
+## What I learned
+
+I learned how TCP and UDP work, what makes them different, and why different applications use different protocols.
+
+**Status:** Learning completed.
 # cybersecurity-learning-journey
  cybersecurity learning journey, projects, research, and technical notes.
 
